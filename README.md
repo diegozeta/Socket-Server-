@@ -1,17 +1,17 @@
-###Mi-Socket-SERVER_PORT
+# Mi-Socket-SERVER_PORT
 
 
 
-Pasos para reconstruir los modulos de node
-...
+## Pasos para reconstruir los modulos de node
+´´´
 npm install
-...
+´´´
 
-Pasos para crear la carpeta dist
-...
+## Pasos para crear la carpeta dist
+´´´
 tsc -w
-...
-Como levantar el servidor?
-...
+´´´
+## Como levantar el servidor?
+´´´
 nodemon dist/
-...
+´´´
